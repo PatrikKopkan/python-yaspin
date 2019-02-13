@@ -48,7 +48,7 @@ during long-hanging operations.
 
 
 %changelog
-* Mon Jan 14 2019 Patrik Kopkan <pkopkan@redhat.com> - 0.14.0.4
+* Mon Jan 14 2019 Patrik Kopkan <pkopkan@redhat.com> - 0.14.0-4
 - fixed typo
 
 * Fri Jan 11 2019 Patrik Kopkan <pkopkan@redhat.com> - 0.14.0-4
