@@ -1,7 +1,7 @@
 %global         srcname yaspin
 Name:           python-yaspin
-Version:        0.14.0
-Release:        4%{?dist}
+Version:        0.14.3
+Release:        1%{?dist}
 License:        MIT
 URL:            https://pypi.org/project/yaspin
 Source0:        https://github.com/pavdmyt/yaspin/archive/v%{version}.tar.gz
@@ -48,6 +48,8 @@ during long-hanging operations.
 
 
 %changelog
+* Sun May 12 2019 Patrik Kopkan <pkopkan@redhat.com> - 0.14.3-1
+- update for 0.14.3
 * Mon Jan 14 2019 Patrik Kopkan <pkopkan@redhat.com> - 0.14.0-4
 - fixed typo
 
